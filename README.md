@@ -18,16 +18,18 @@
 
 ```yaml
 name:       Muhammad Ahmad
-role:       MERN Stack Developer
-location:   Pakistan 🇵🇰
-focus:      Backend Development (Node.js / Nest.js)
-passion:    Open Source · Clean Code · Building Things
+role:       MERN Stack Developer · AI-First Builder
+location:   Pakistan 🇵🇰 (Remote)
+focus:      Shipping fast with Claude · Cursor · AI-First Platforms
+stack:      MERN · Supabase · GHL · Zapier
+passion:    Open Source · Clean Code · Building Things at AI Speed
 ```
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Deep-diving into **Node.js & NestJS**
-- 💬 Ask me about **React, Next.js, MongoDB, Express**
-- ⚡ Fun fact: I think in components
+- 🤖 Working in an **AI-first driven environment** — shipping products faster with Claude & Cursor
+- 🔗 Experience with **GHL (GoHighLevel)** and **Zapier** automations
+- 🚀 Currently at a **remote job** focused on AI-first platforms and rapid product delivery
+- 🌱 Deep-diving into **Node.js & Supabase**
+- 💬 Ask me about **React, Next.js, MongoDB, Express, AI tooling**
 
 ---
 
