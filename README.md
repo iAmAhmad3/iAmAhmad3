@@ -65,9 +65,9 @@ passion:    Open Source · Clean Code · Building Things
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iAmAhmad3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api?username=iAmAhmad3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmAhmad3&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api/top-langs/?username=iAmAhmad3&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
