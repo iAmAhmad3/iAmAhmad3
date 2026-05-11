@@ -33,30 +33,21 @@ passion:    Open Source · Clean Code · Building Things
 
 ## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/iamahmad3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://twitter.com/iAamAhmad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" width="48" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/iAmAhmad3/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" height="48" width="48" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" width="48" alt="Instagram" />
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/iamahmad3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" width="48" alt="LinkedIn" /></a></td>
+    <td><a href="https://twitter.com/iAamAhmad" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="48" width="48" alt="Twitter" /></a></td>
+    <td><a href="https://leetcode.com/iAmAhmad3/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" height="48" width="48" alt="LeetCode" /></a></td>
+    <td><a href="https://www.instagram.com/_iammuhammadahmad/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="48" width="48" alt="Instagram" /></a></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,materialui,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,express,nestjs,mongodb,firebase,materialui,git,github&perline=8" />
 </p>
 
 ---
@@ -65,9 +56,9 @@ passion:    Open Source · Clean Code · Building Things
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api?username=iAmAhmad3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api?username=iAmAhmad3&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&v=2" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api/top-langs/?username=iAmAhmad3&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-e4te1q83a-muhammad-ahmads-projects-83a0fcb5.vercel.app/api/top-langs/?username=iAmAhmad3&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800&v=2" />
 
 </div>
 
